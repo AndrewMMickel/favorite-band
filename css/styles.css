@@ -1,10 +1,14 @@
 .column {
     width: 300px;
     float: left;
+    margin: 2px;
+    border: 5px solid rgb(68, 4, 128);
+    padding: 4px;
+    background-color: rgb(194, 4, 137);
   }
 
   .sidebar {
     width: 30%;
     float: right;
-    background-color: yellow;
+    background-color: rgb(4, 184, 19);
   }
